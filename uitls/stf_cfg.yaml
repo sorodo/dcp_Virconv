@@ -1,0 +1,3 @@
+DATA_PATH: '/mnt/h/data/seeingthroughfog' # '../data/kitti'
+
+DATA_TYPE: 'stf' # 'kitti' or 'stf'
